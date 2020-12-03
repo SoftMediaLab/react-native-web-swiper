@@ -157,6 +157,7 @@ class SwiperWrapper extends React.Component {
 | onAnimationEnd       |              | `function`            | Any swiper animation end |
 | onIndexChanged       |              | `function`            | Called when active index changed |
 | controlsProps        |              | `object`              | see below |
+| autoHeight           | `false`      | `boolean`             | Calculate height from children elements |
 
 ### Controls Props
 
